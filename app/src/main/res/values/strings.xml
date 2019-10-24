@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="my_name">Alvin Chow</string>
+    <string name="profile_pic">Profile Picture</string>
+    <string name="profile_desc">
+        Education:\n
+        \n\tSMK Wakaf Tapai\n
+        \n\tSJK(c) Chon Hwa\n
+        \n\tTAR UC, Kuala Lumper\n
+    </string>
+</resources>
